@@ -1,0 +1,30 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,127.23,-80.46,0.0,top
+C10,10nF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,123.06,-78.61,0.0,top
+C11,0.1uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,118.16,-87.44,90.0,top
+C12,1nF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,123.06,-79.58,0.0,top
+C13,0.1uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,128.25,-91.5,-90.0,top
+C2,22uF,C_0805_2012Metric,130.75,-75.75,0.0,top
+C3,10uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,128.75,-77.25,0.0,top
+C4,0.1uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,129.75,-78.75,90.0,top
+C5,0.1uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,136.5,-80.5,-90.0,top
+C6,2.2uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,123.06,-77.64,0.0,top
+C7,15pF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,126.19,-86.43,0.0,top
+C8,15pF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,125.35,-81.03,90.0,top
+C9,3.6pF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,121.16,-77.02,90.0,top
+E1,~,PCB_Trace_2.4GHz_Tunned,124.511123,-73.384247,0.0,top
+J1,Conn_01x06_Pin,PinHeader_1x06_P1.27mm_Vertical,138.0,-83.095,180.0,top
+L1,3nH,L_0402_1005Metric_Pad0.77x0.64mm_HandSolder,120.45,-75.45,180.0,top
+R1,10K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,127.25,-79.36,180.0,top
+R3,10K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,138.0,-91.25,180.0,top
+R4,1R,R_0402_1005Metric,121.16,-79.1,-90.0,top
+R6,10K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,138.0,-89.25,0.0,top
+SW1,SW_Push,TS-1088-AR02016,125.25,-75.59,0.0,top
+TH1,10K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,138.0,-92.25,180.0,top
+TH2,10K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,138.0,-92.0,180.0,bottom
+U1,C7469098,TSSOP-20_4.4x6.5mm_P0.65mm,132.32,-83.7275,-90.0,top
+U3,~,Ci24r1,121.82,-84.44,0.0,top
+U4,Hall Switch,HAL2041SO,119.1575,-90.67,90.0,top
+U5,~,SOP-8_3.9x4.9mm_P1.27mm,132.75,-90.195084,180.0,top
+Y1,16MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,126.56,-84.03,0.0,top
+Y2,Crystal,Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm,132.25,-78.25,180.0,top
